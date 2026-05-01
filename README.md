@@ -5,7 +5,6 @@
 ![Databricks](https://img.shields.io/badge/Databricks-Cloud-red)
 ![Snowflake](https://img.shields.io/badge/Snowflake-Warehouse-blue)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
