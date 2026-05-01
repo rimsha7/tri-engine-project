@@ -66,26 +66,6 @@ orders.csv → PySpark → Databricks → Snowflake → Analytics
 
 ---
 
-## 📁 Repository Structure
-
-tri-engine-project/
-│
-├── databricks/
-│ └── tri-data-engine-databricks.ipynb
-│
-├── snowflake/
-│ └── tri-data-engine.sql
-│
-├── Screenshots/
-│ └── execution proofs
-│
-├── local_pyspark_app.py
-├── orders.csv
-├── requirements.txt
-
-
----
-
 ## 📊 Dataset
 
 ### Key Fields
